@@ -1,7 +1,9 @@
 # useCounter
 
 Ejemplo:
-`
+
+```
+
 const [counter, setCounter] = useState(initialState);
 return {
 counter,
@@ -10,4 +12,4 @@ decrement,
 reset
 };
 
-`
+```
